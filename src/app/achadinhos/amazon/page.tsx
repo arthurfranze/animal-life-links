@@ -9,7 +9,7 @@ export default function Amazon() {
     <>
       <Header />
       <main className="flex-1 w-full max-w-2xl mx-auto px-4 pb-8 animate-fade-in">
-        <h2 className="text-2xl font-bold text-center mb-6">🟠 Amazon</h2>
+        <h2 className="text-2xl font-bold text-center mb-6">🔵 Amazon</h2>
         <ProductGrid products={produtos["amazon"]} />
         <div className="text-center">
           <BackButton href="/achadinhos" />
