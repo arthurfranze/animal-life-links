@@ -37,14 +37,18 @@ export default function Achadinhos() {
             <Link
               key={mp.href}
               href={mp.href}
-              className="card-hover flex-1 flex flex-col items-center justify-center gap-2 bg-[var(--color-bg-card)] rounded-2xl p-5 text-lg font-semibold no-underline text-[var(--color-text-main)]"
+              className="card-hover flex-1 flex flex-col items-center gap-3 no-underline"
             >
-              <img
-                src={mp.logo}
-                alt={mp.name}
-                style={{ maxHeight: "32px", width: "auto" }}
-              />
-              <span className="whitespace-nowrap">{mp.name}</span>
+              <div className="w-full bg-white rounded-2xl p-5 flex items-center justify-center">
+                <img
+                  src={mp.logo}
+                  alt={mp.name}
+                  style={{ maxHeight: "32px", width: "auto" }}
+                />
+              </div>
+              <span className="text-lg font-semibold text-[var(--color-text-main)] whitespace-nowrap">
+                {mp.name}
+              </span>
             </Link>
           ))}
         </div>
