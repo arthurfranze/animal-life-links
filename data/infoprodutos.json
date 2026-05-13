@@ -1,0 +1,30 @@
+{
+  "animal-life": [
+    {
+      "id": 1,
+      "nome": "E-book: Guia Completo do Primeiro Pet",
+      "imagem": "https://via.placeholder.com/300x300?text=Ebook+Primeiro+Pet",
+      "link": "https://seu-link.com/ebook-1"
+    },
+    {
+      "id": 2,
+      "nome": "E-book: Receitas Naturais para Cães",
+      "imagem": "https://via.placeholder.com/300x300?text=Ebook+Receitas",
+      "link": "https://seu-link.com/ebook-2"
+    }
+  ],
+  "parceiros": [
+    {
+      "id": 1,
+      "nome": "Curso: Adestramento Inteligente",
+      "imagem": "https://via.placeholder.com/300x300?text=Curso+Adestramento",
+      "link": "https://seu-link.com/curso-1"
+    },
+    {
+      "id": 2,
+      "nome": "Curso: Saúde e Bem-estar Animal",
+      "imagem": "https://via.placeholder.com/300x300?text=Curso+Saude",
+      "link": "https://seu-link.com/curso-2"
+    }
+  ]
+}

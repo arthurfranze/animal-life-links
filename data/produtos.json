@@ -1,0 +1,44 @@
+{
+  "mercado-livre": [
+    {
+      "id": 1,
+      "nome": "Coleira Ajustável Premium",
+      "imagem": "https://via.placeholder.com/300x300?text=Coleira+Premium",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-1"
+    },
+    {
+      "id": 2,
+      "nome": "Comedouro Inox Antiderrapante",
+      "imagem": "https://via.placeholder.com/300x300?text=Comedouro+Inox",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-2"
+    }
+  ],
+  "amazon": [
+    {
+      "id": 1,
+      "nome": "Cama Pet Ortopédica",
+      "imagem": "https://via.placeholder.com/300x300?text=Cama+Ortopedica",
+      "link": "https://amazon.com.br/seu-link-afiliado-1"
+    },
+    {
+      "id": 2,
+      "nome": "Brinquedo Interativo para Cães",
+      "imagem": "https://via.placeholder.com/300x300?text=Brinquedo+Interativo",
+      "link": "https://amazon.com.br/seu-link-afiliado-2"
+    }
+  ],
+  "shopee": [
+    {
+      "id": 1,
+      "nome": "Kit Higiene Pet Completo",
+      "imagem": "https://via.placeholder.com/300x300?text=Kit+Higiene",
+      "link": "https://shopee.com.br/seu-link-afiliado-1"
+    },
+    {
+      "id": 2,
+      "nome": "Roupa Pet Inverno Quentinha",
+      "imagem": "https://via.placeholder.com/300x300?text=Roupa+Inverno",
+      "link": "https://shopee.com.br/seu-link-afiliado-2"
+    }
+  ]
+}
