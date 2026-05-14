@@ -7,7 +7,6 @@ interface Product {
   id: number;
   nome: string;
   descricao?: string;
-  preco?: string;
   imagem: string;
   link: string;
 }
@@ -49,12 +48,6 @@ function ProductCard({ product }: { product: Product }) {
             {product.nome}
           </p>
         </a>
-
-        {product.preco && (
-          <p className="text-base font-bold text-[var(--color-gold)] text-center">
-            {product.preco}
-          </p>
-        )}
 
         {product.descricao && (
           <>

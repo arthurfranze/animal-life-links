@@ -4,7 +4,6 @@
       "id": 1,
       "nome": "E-book: Guia Completo do Primeiro Pet",
       "descricao": "Tudo que você precisa saber antes de adotar ou comprar seu primeiro pet. Alimentação, vacinas, rotina e mais.",
-      "preco": "R$ 19,90",
       "imagem": "https://via.placeholder.com/300x300?text=Ebook+Primeiro+Pet",
       "link": "https://seu-link.com/ebook-1"
     },
@@ -12,7 +11,6 @@
       "id": 2,
       "nome": "E-book: Receitas Naturais para Cães",
       "descricao": "30 receitas caseiras e saudáveis aprovadas por veterinários para deixar seu cão mais feliz e saudável.",
-      "preco": "R$ 24,90",
       "imagem": "https://via.placeholder.com/300x300?text=Ebook+Receitas",
       "link": "https://seu-link.com/ebook-2"
     }
@@ -22,7 +20,6 @@
       "id": 1,
       "nome": "Curso: Adestramento Inteligente",
       "descricao": "Aprenda a adestrar seu cão em casa com técnicas positivas. Mais de 40 aulas em vídeo com certificado.",
-      "preco": "R$ 97,00",
       "imagem": "https://via.placeholder.com/300x300?text=Curso+Adestramento",
       "link": "https://seu-link.com/curso-1"
     },
@@ -30,7 +27,6 @@
       "id": 2,
       "nome": "Curso: Saúde e Bem-estar Animal",
       "descricao": "Cuide da saúde do seu pet com confiança. Primeiros socorros, prevenção de doenças e nutrição animal.",
-      "preco": "R$ 79,90",
       "imagem": "https://via.placeholder.com/300x300?text=Curso+Saude",
       "link": "https://seu-link.com/curso-2"
     }
