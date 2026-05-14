@@ -3,12 +3,16 @@
     {
       "id": 1,
       "nome": "Coleira Ajustável Premium",
+      "descricao": "Coleira de nylon resistente com fecho de segurança, ajustável para cães de todos os portes. Confortável e durável.",
+      "preco": "R$ 39,90",
       "imagem": "https://via.placeholder.com/300x300?text=Coleira+Premium",
       "link": "https://mercadolivre.com.br/seu-link-afiliado-1"
     },
     {
       "id": 2,
       "nome": "Comedouro Inox Antiderrapante",
+      "descricao": "Comedouro em aço inoxidável com base de borracha antiderrapante. Fácil de limpar, ideal para ração e água.",
+      "preco": "R$ 29,90",
       "imagem": "https://via.placeholder.com/300x300?text=Comedouro+Inox",
       "link": "https://mercadolivre.com.br/seu-link-afiliado-2"
     }
@@ -17,12 +21,16 @@
     {
       "id": 1,
       "nome": "Cama Pet Ortopédica",
+      "descricao": "Cama ortopédica com espuma viscoelástica, alivia dores articulares. Perfeita para cães idosos ou de grande porte.",
+      "preco": "R$ 149,90",
       "imagem": "https://via.placeholder.com/300x300?text=Cama+Ortopedica",
       "link": "https://amazon.com.br/seu-link-afiliado-1"
     },
     {
       "id": 2,
       "nome": "Brinquedo Interativo para Cães",
+      "descricao": "Brinquedo dispensador de petiscos que estimula a inteligência do seu pet. Material atóxico e super resistente.",
+      "preco": "R$ 59,90",
       "imagem": "https://via.placeholder.com/300x300?text=Brinquedo+Interativo",
       "link": "https://amazon.com.br/seu-link-afiliado-2"
     }
@@ -31,12 +39,16 @@
     {
       "id": 1,
       "nome": "Kit Higiene Pet Completo",
+      "descricao": "Kit com escova, cortador de unha, pente e lixa. Tudo que você precisa para cuidar do seu pet em casa.",
+      "preco": "R$ 34,90",
       "imagem": "https://via.placeholder.com/300x300?text=Kit+Higiene",
       "link": "https://shopee.com.br/seu-link-afiliado-1"
     },
     {
       "id": 2,
       "nome": "Roupa Pet Inverno Quentinha",
+      "descricao": "Moletom pet com capuz, tecido soft e quentinho. Disponível em vários tamanhos e cores.",
+      "preco": "R$ 44,90",
       "imagem": "https://via.placeholder.com/300x300?text=Roupa+Inverno",
       "link": "https://shopee.com.br/seu-link-afiliado-2"
     }
