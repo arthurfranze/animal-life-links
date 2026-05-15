@@ -2,41 +2,321 @@
   "mercado-livre": [
     {
       "id": 1,
-      "nome": "Coleira Ajustável Premium",
-      "descricao": "Coleira de nylon resistente com fecho de segurança, ajustável para cães de todos os portes. Confortável e durável.",
-      "imagem": "https://via.placeholder.com/300x300?text=Coleira+Premium",
+      "nome": "Comedouro Inox Antiderrapante",
+      "descricao": "Comedouro em aço inoxidável com base de borracha antiderrapante. Fácil de limpar, ideal para ração e água.",
+      "imagem": "https://via.placeholder.com/300x300?text=Comedouro+Inox",
       "link": "https://mercadolivre.com.br/seu-link-afiliado-1"
     },
     {
       "id": 2,
-      "nome": "Comedouro Inox Antiderrapante",
-      "descricao": "Comedouro em aço inoxidável com base de borracha antiderrapante. Fácil de limpar, ideal para ração e água.",
-      "imagem": "https://via.placeholder.com/300x300?text=Comedouro+Inox",
+      "nome": "Roupa Pet Inverno Quentinha",
+      "descricao": "Moletom pet com capuz, tecido soft e quentinho. Disponível em vários tamanhos e cores.",
+      "imagem": "https://via.placeholder.com/300x300?text=Roupa+Inverno",
       "link": "https://mercadolivre.com.br/seu-link-afiliado-2"
+    },
+    {
+      "id": 3,
+      "nome": "Bifinho Natural de Frango",
+      "descricao": "Petisco 100% natural feito com peito de frango desidratado. Sem conservantes, corantes ou aromatizantes.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bifinho+Frango",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-3"
+    },
+    {
+      "id": 4,
+      "nome": "Suplemento Vitamínico Canino",
+      "descricao": "Complexo vitamínico completo para cães de todas as idades. Fortalece imunidade, pelagem e articulações.",
+      "imagem": "https://via.placeholder.com/300x300?text=Suplemento+Vitaminico",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-4"
+    },
+    {
+      "id": 5,
+      "nome": "Shampoo Dermatológico Pet",
+      "descricao": "Shampoo hipoalergênico para peles sensíveis. Fórmula suave com aloe vera e aveia coloidal.",
+      "imagem": "https://via.placeholder.com/300x300?text=Shampoo+Dermatologico",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-5"
+    },
+    {
+      "id": 6,
+      "nome": "Bandana Pet Estilosa",
+      "descricao": "Bandana ajustável em tecido de algodão com estampas divertidas. Perfeita para passeios e fotos.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bandana+Pet",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-6"
+    },
+    {
+      "id": 7,
+      "nome": "Bebedouro Fonte Automática",
+      "descricao": "Fonte de água automática com filtro de carvão ativado. Mantém a água fresca e filtrada o dia todo.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bebedouro+Fonte",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-7"
+    },
+    {
+      "id": 8,
+      "nome": "Bolinha Interativa com Som",
+      "descricao": "Bola de borracha atóxica que emite som ao ser mordida. Estimula a brincadeira e alivia o estresse.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bolinha+Interativa",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-8"
+    },
+    {
+      "id": 9,
+      "nome": "Corda de Nós para Cães",
+      "descricao": "Brinquedo de corda resistente para cabo de guerra e limpeza dental natural. Diversas cores.",
+      "imagem": "https://via.placeholder.com/300x300?text=Corda+de+Nos",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-9"
+    },
+    {
+      "id": 10,
+      "nome": "Brinquedo Dispensador de Petiscos",
+      "descricao": "Brinquedo inteligente que libera petiscos conforme o pet interage. Estimula a mente e reduz ansiedade.",
+      "imagem": "https://via.placeholder.com/300x300?text=Dispensador+Petiscos",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-10"
+    },
+    {
+      "id": 11,
+      "nome": "Orelha Bovina Desidratada",
+      "descricao": "Petisco natural de orelha bovina desidratada. Rica em colágeno, ajuda na limpeza dos dentes.",
+      "imagem": "https://via.placeholder.com/300x300?text=Orelha+Bovina",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-11"
+    },
+    {
+      "id": 12,
+      "nome": "Pelúcia com Apito Interno",
+      "descricao": "Pelúcia macia em formato de bichinho com apito interno. Ideal para cães de pequeno e médio porte.",
+      "imagem": "https://via.placeholder.com/300x300?text=Pelucia+Apito",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-12"
+    },
+    {
+      "id": 13,
+      "nome": "Frisbee de Borracha Flexível",
+      "descricao": "Frisbee leve e flexível em borracha macia. Perfeito para brincadeiras ao ar livre com seu cão.",
+      "imagem": "https://via.placeholder.com/300x300?text=Frisbee+Borracha",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-13"
+    },
+    {
+      "id": 14,
+      "nome": "Snack Dental Menta",
+      "descricao": "Petisco funcional que limpa os dentes e refresca o hálito. Formato em bastão para fácil mastigação.",
+      "imagem": "https://via.placeholder.com/300x300?text=Snack+Dental",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-14"
+    },
+    {
+      "id": 15,
+      "nome": "Bifinhos de Carne Bovina",
+      "descricao": "Tiras de carne bovina desidratada. Petisco saboroso e nutritivo para recompensa no adestramento.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bifinhos+Bovinos",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-15"
+    },
+    {
+      "id": 16,
+      "nome": "Cookie Natural para Cães",
+      "descricao": "Biscoito artesanal com ingredientes naturais. Sem glúten, sem açúcar. Sabor irresistível.",
+      "imagem": "https://via.placeholder.com/300x300?text=Cookie+Natural",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-16"
+    },
+    {
+      "id": 17,
+      "nome": "Mordedor de Nylon Resistente",
+      "descricao": "Mordedor ultra resistente para cães destruidores. Material atóxico com sabor de bacon.",
+      "imagem": "https://via.placeholder.com/300x300?text=Mordedor+Nylon",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-17"
+    },
+    {
+      "id": 18,
+      "nome": "Palito Natural de Traqueia",
+      "descricao": "Traqueia bovina desidratada em palitos. Fonte natural de condroitina para articulações saudáveis.",
+      "imagem": "https://via.placeholder.com/300x300?text=Palito+Traqueia",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-18"
+    },
+    {
+      "id": 19,
+      "nome": "Tapete de Lamber com Ventosa",
+      "descricao": "Tapete de silicone com ventosas que gruda na parede. Ideal para distrair o pet durante o banho.",
+      "imagem": "https://via.placeholder.com/300x300?text=Tapete+Lamber",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-19"
+    },
+    {
+      "id": 20,
+      "nome": "Limpa Patinhas Portátil",
+      "descricao": "Copo limpador de patas com cerdas de silicone. Prático para usar depois dos passeios.",
+      "imagem": "https://via.placeholder.com/300x300?text=Limpa+Patinhas",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-20"
+    },
+    {
+      "id": 21,
+      "nome": "Petisco Liofilizado de Fígado",
+      "descricao": "Fígado bovino liofilizado em cubinhos. Mantém nutrientes e sabor sem conservantes artificiais.",
+      "imagem": "https://via.placeholder.com/300x300?text=Petisco+Figado",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-21"
+    },
+    {
+      "id": 22,
+      "nome": "Comedouro Lento Anti-Voracidade",
+      "descricao": "Comedouro com labirinto interno que desacelera a alimentação. Previne engasgos e melhora a digestão.",
+      "imagem": "https://via.placeholder.com/300x300?text=Comedouro+Lento",
+      "link": "https://mercadolivre.com.br/seu-link-afiliado-22"
     }
   ],
   "amazon": [
     {
       "id": 1,
-      "nome": "Cama Pet Ortopédica",
-      "descricao": "Cama ortopédica com espuma viscoelástica, alivia dores articulares. Perfeita para cães idosos ou de grande porte.",
-      "imagem": "https://via.placeholder.com/300x300?text=Cama+Ortopedica",
+      "nome": "Comedouro Inox Antiderrapante",
+      "descricao": "Comedouro em aço inoxidável com base de borracha antiderrapante. Fácil de limpar, ideal para ração e água.",
+      "imagem": "https://via.placeholder.com/300x300?text=Comedouro+Inox",
       "link": "https://amazon.com.br/seu-link-afiliado-1"
     },
     {
       "id": 2,
-      "nome": "Brinquedo Interativo para Cães",
-      "descricao": "Brinquedo dispensador de petiscos que estimula a inteligência do seu pet. Material atóxico e super resistente.",
-      "imagem": "https://via.placeholder.com/300x300?text=Brinquedo+Interativo",
+      "nome": "Roupa Pet Inverno Quentinha",
+      "descricao": "Moletom pet com capuz, tecido soft e quentinho. Disponível em vários tamanhos e cores.",
+      "imagem": "https://via.placeholder.com/300x300?text=Roupa+Inverno",
       "link": "https://amazon.com.br/seu-link-afiliado-2"
+    },
+    {
+      "id": 3,
+      "nome": "Bifinho Natural de Frango",
+      "descricao": "Petisco 100% natural feito com peito de frango desidratado. Sem conservantes, corantes ou aromatizantes.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bifinho+Frango",
+      "link": "https://amazon.com.br/seu-link-afiliado-3"
+    },
+    {
+      "id": 4,
+      "nome": "Suplemento Vitamínico Canino",
+      "descricao": "Complexo vitamínico completo para cães de todas as idades. Fortalece imunidade, pelagem e articulações.",
+      "imagem": "https://via.placeholder.com/300x300?text=Suplemento+Vitaminico",
+      "link": "https://amazon.com.br/seu-link-afiliado-4"
+    },
+    {
+      "id": 5,
+      "nome": "Shampoo Dermatológico Pet",
+      "descricao": "Shampoo hipoalergênico para peles sensíveis. Fórmula suave com aloe vera e aveia coloidal.",
+      "imagem": "https://via.placeholder.com/300x300?text=Shampoo+Dermatologico",
+      "link": "https://amazon.com.br/seu-link-afiliado-5"
+    },
+    {
+      "id": 6,
+      "nome": "Bandana Pet Estilosa",
+      "descricao": "Bandana ajustável em tecido de algodão com estampas divertidas. Perfeita para passeios e fotos.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bandana+Pet",
+      "link": "https://amazon.com.br/seu-link-afiliado-6"
+    },
+    {
+      "id": 7,
+      "nome": "Bebedouro Fonte Automática",
+      "descricao": "Fonte de água automática com filtro de carvão ativado. Mantém a água fresca e filtrada o dia todo.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bebedouro+Fonte",
+      "link": "https://amazon.com.br/seu-link-afiliado-7"
+    },
+    {
+      "id": 8,
+      "nome": "Bolinha Interativa com Som",
+      "descricao": "Bola de borracha atóxica que emite som ao ser mordida. Estimula a brincadeira e alivia o estresse.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bolinha+Interativa",
+      "link": "https://amazon.com.br/seu-link-afiliado-8"
+    },
+    {
+      "id": 9,
+      "nome": "Corda de Nós para Cães",
+      "descricao": "Brinquedo de corda resistente para cabo de guerra e limpeza dental natural. Diversas cores.",
+      "imagem": "https://via.placeholder.com/300x300?text=Corda+de+Nos",
+      "link": "https://amazon.com.br/seu-link-afiliado-9"
+    },
+    {
+      "id": 10,
+      "nome": "Brinquedo Dispensador de Petiscos",
+      "descricao": "Brinquedo inteligente que libera petiscos conforme o pet interage. Estimula a mente e reduz ansiedade.",
+      "imagem": "https://via.placeholder.com/300x300?text=Dispensador+Petiscos",
+      "link": "https://amazon.com.br/seu-link-afiliado-10"
+    },
+    {
+      "id": 11,
+      "nome": "Orelha Bovina Desidratada",
+      "descricao": "Petisco natural de orelha bovina desidratada. Rica em colágeno, ajuda na limpeza dos dentes.",
+      "imagem": "https://via.placeholder.com/300x300?text=Orelha+Bovina",
+      "link": "https://amazon.com.br/seu-link-afiliado-11"
+    },
+    {
+      "id": 12,
+      "nome": "Pelúcia com Apito Interno",
+      "descricao": "Pelúcia macia em formato de bichinho com apito interno. Ideal para cães de pequeno e médio porte.",
+      "imagem": "https://via.placeholder.com/300x300?text=Pelucia+Apito",
+      "link": "https://amazon.com.br/seu-link-afiliado-12"
+    },
+    {
+      "id": 13,
+      "nome": "Frisbee de Borracha Flexível",
+      "descricao": "Frisbee leve e flexível em borracha macia. Perfeito para brincadeiras ao ar livre com seu cão.",
+      "imagem": "https://via.placeholder.com/300x300?text=Frisbee+Borracha",
+      "link": "https://amazon.com.br/seu-link-afiliado-13"
+    },
+    {
+      "id": 14,
+      "nome": "Snack Dental Menta",
+      "descricao": "Petisco funcional que limpa os dentes e refresca o hálito. Formato em bastão para fácil mastigação.",
+      "imagem": "https://via.placeholder.com/300x300?text=Snack+Dental",
+      "link": "https://amazon.com.br/seu-link-afiliado-14"
+    },
+    {
+      "id": 15,
+      "nome": "Bifinhos de Carne Bovina",
+      "descricao": "Tiras de carne bovina desidratada. Petisco saboroso e nutritivo para recompensa no adestramento.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bifinhos+Bovinos",
+      "link": "https://amazon.com.br/seu-link-afiliado-15"
+    },
+    {
+      "id": 16,
+      "nome": "Cookie Natural para Cães",
+      "descricao": "Biscoito artesanal com ingredientes naturais. Sem glúten, sem açúcar. Sabor irresistível.",
+      "imagem": "https://via.placeholder.com/300x300?text=Cookie+Natural",
+      "link": "https://amazon.com.br/seu-link-afiliado-16"
+    },
+    {
+      "id": 17,
+      "nome": "Mordedor de Nylon Resistente",
+      "descricao": "Mordedor ultra resistente para cães destruidores. Material atóxico com sabor de bacon.",
+      "imagem": "https://via.placeholder.com/300x300?text=Mordedor+Nylon",
+      "link": "https://amazon.com.br/seu-link-afiliado-17"
+    },
+    {
+      "id": 18,
+      "nome": "Palito Natural de Traqueia",
+      "descricao": "Traqueia bovina desidratada em palitos. Fonte natural de condroitina para articulações saudáveis.",
+      "imagem": "https://via.placeholder.com/300x300?text=Palito+Traqueia",
+      "link": "https://amazon.com.br/seu-link-afiliado-18"
+    },
+    {
+      "id": 19,
+      "nome": "Tapete de Lamber com Ventosa",
+      "descricao": "Tapete de silicone com ventosas que gruda na parede. Ideal para distrair o pet durante o banho.",
+      "imagem": "https://via.placeholder.com/300x300?text=Tapete+Lamber",
+      "link": "https://amazon.com.br/seu-link-afiliado-19"
+    },
+    {
+      "id": 20,
+      "nome": "Limpa Patinhas Portátil",
+      "descricao": "Copo limpador de patas com cerdas de silicone. Prático para usar depois dos passeios.",
+      "imagem": "https://via.placeholder.com/300x300?text=Limpa+Patinhas",
+      "link": "https://amazon.com.br/seu-link-afiliado-20"
+    },
+    {
+      "id": 21,
+      "nome": "Petisco Liofilizado de Fígado",
+      "descricao": "Fígado bovino liofilizado em cubinhos. Mantém nutrientes e sabor sem conservantes artificiais.",
+      "imagem": "https://via.placeholder.com/300x300?text=Petisco+Figado",
+      "link": "https://amazon.com.br/seu-link-afiliado-21"
+    },
+    {
+      "id": 22,
+      "nome": "Comedouro Lento Anti-Voracidade",
+      "descricao": "Comedouro com labirinto interno que desacelera a alimentação. Previne engasgos e melhora a digestão.",
+      "imagem": "https://via.placeholder.com/300x300?text=Comedouro+Lento",
+      "link": "https://amazon.com.br/seu-link-afiliado-22"
     }
   ],
   "shopee": [
     {
       "id": 1,
-      "nome": "Kit Higiene Pet Completo",
-      "descricao": "Kit com escova, cortador de unha, pente e lixa. Tudo que você precisa para cuidar do seu pet em casa.",
-      "imagem": "https://via.placeholder.com/300x300?text=Kit+Higiene",
+      "nome": "Comedouro Inox Antiderrapante",
+      "descricao": "Comedouro em aço inoxidável com base de borracha antiderrapante. Fácil de limpar, ideal para ração e água.",
+      "imagem": "https://via.placeholder.com/300x300?text=Comedouro+Inox",
       "link": "https://shopee.com.br/seu-link-afiliado-1"
     },
     {
@@ -45,6 +325,146 @@
       "descricao": "Moletom pet com capuz, tecido soft e quentinho. Disponível em vários tamanhos e cores.",
       "imagem": "https://via.placeholder.com/300x300?text=Roupa+Inverno",
       "link": "https://shopee.com.br/seu-link-afiliado-2"
+    },
+    {
+      "id": 3,
+      "nome": "Bifinho Natural de Frango",
+      "descricao": "Petisco 100% natural feito com peito de frango desidratado. Sem conservantes, corantes ou aromatizantes.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bifinho+Frango",
+      "link": "https://shopee.com.br/seu-link-afiliado-3"
+    },
+    {
+      "id": 4,
+      "nome": "Suplemento Vitamínico Canino",
+      "descricao": "Complexo vitamínico completo para cães de todas as idades. Fortalece imunidade, pelagem e articulações.",
+      "imagem": "https://via.placeholder.com/300x300?text=Suplemento+Vitaminico",
+      "link": "https://shopee.com.br/seu-link-afiliado-4"
+    },
+    {
+      "id": 5,
+      "nome": "Shampoo Dermatológico Pet",
+      "descricao": "Shampoo hipoalergênico para peles sensíveis. Fórmula suave com aloe vera e aveia coloidal.",
+      "imagem": "https://via.placeholder.com/300x300?text=Shampoo+Dermatologico",
+      "link": "https://shopee.com.br/seu-link-afiliado-5"
+    },
+    {
+      "id": 6,
+      "nome": "Bandana Pet Estilosa",
+      "descricao": "Bandana ajustável em tecido de algodão com estampas divertidas. Perfeita para passeios e fotos.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bandana+Pet",
+      "link": "https://shopee.com.br/seu-link-afiliado-6"
+    },
+    {
+      "id": 7,
+      "nome": "Bebedouro Fonte Automática",
+      "descricao": "Fonte de água automática com filtro de carvão ativado. Mantém a água fresca e filtrada o dia todo.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bebedouro+Fonte",
+      "link": "https://shopee.com.br/seu-link-afiliado-7"
+    },
+    {
+      "id": 8,
+      "nome": "Bolinha Interativa com Som",
+      "descricao": "Bola de borracha atóxica que emite som ao ser mordida. Estimula a brincadeira e alivia o estresse.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bolinha+Interativa",
+      "link": "https://shopee.com.br/seu-link-afiliado-8"
+    },
+    {
+      "id": 9,
+      "nome": "Corda de Nós para Cães",
+      "descricao": "Brinquedo de corda resistente para cabo de guerra e limpeza dental natural. Diversas cores.",
+      "imagem": "https://via.placeholder.com/300x300?text=Corda+de+Nos",
+      "link": "https://shopee.com.br/seu-link-afiliado-9"
+    },
+    {
+      "id": 10,
+      "nome": "Brinquedo Dispensador de Petiscos",
+      "descricao": "Brinquedo inteligente que libera petiscos conforme o pet interage. Estimula a mente e reduz ansiedade.",
+      "imagem": "https://via.placeholder.com/300x300?text=Dispensador+Petiscos",
+      "link": "https://shopee.com.br/seu-link-afiliado-10"
+    },
+    {
+      "id": 11,
+      "nome": "Orelha Bovina Desidratada",
+      "descricao": "Petisco natural de orelha bovina desidratada. Rica em colágeno, ajuda na limpeza dos dentes.",
+      "imagem": "https://via.placeholder.com/300x300?text=Orelha+Bovina",
+      "link": "https://shopee.com.br/seu-link-afiliado-11"
+    },
+    {
+      "id": 12,
+      "nome": "Pelúcia com Apito Interno",
+      "descricao": "Pelúcia macia em formato de bichinho com apito interno. Ideal para cães de pequeno e médio porte.",
+      "imagem": "https://via.placeholder.com/300x300?text=Pelucia+Apito",
+      "link": "https://shopee.com.br/seu-link-afiliado-12"
+    },
+    {
+      "id": 13,
+      "nome": "Frisbee de Borracha Flexível",
+      "descricao": "Frisbee leve e flexível em borracha macia. Perfeito para brincadeiras ao ar livre com seu cão.",
+      "imagem": "https://via.placeholder.com/300x300?text=Frisbee+Borracha",
+      "link": "https://shopee.com.br/seu-link-afiliado-13"
+    },
+    {
+      "id": 14,
+      "nome": "Snack Dental Menta",
+      "descricao": "Petisco funcional que limpa os dentes e refresca o hálito. Formato em bastão para fácil mastigação.",
+      "imagem": "https://via.placeholder.com/300x300?text=Snack+Dental",
+      "link": "https://shopee.com.br/seu-link-afiliado-14"
+    },
+    {
+      "id": 15,
+      "nome": "Bifinhos de Carne Bovina",
+      "descricao": "Tiras de carne bovina desidratada. Petisco saboroso e nutritivo para recompensa no adestramento.",
+      "imagem": "https://via.placeholder.com/300x300?text=Bifinhos+Bovinos",
+      "link": "https://shopee.com.br/seu-link-afiliado-15"
+    },
+    {
+      "id": 16,
+      "nome": "Cookie Natural para Cães",
+      "descricao": "Biscoito artesanal com ingredientes naturais. Sem glúten, sem açúcar. Sabor irresistível.",
+      "imagem": "https://via.placeholder.com/300x300?text=Cookie+Natural",
+      "link": "https://shopee.com.br/seu-link-afiliado-16"
+    },
+    {
+      "id": 17,
+      "nome": "Mordedor de Nylon Resistente",
+      "descricao": "Mordedor ultra resistente para cães destruidores. Material atóxico com sabor de bacon.",
+      "imagem": "https://via.placeholder.com/300x300?text=Mordedor+Nylon",
+      "link": "https://shopee.com.br/seu-link-afiliado-17"
+    },
+    {
+      "id": 18,
+      "nome": "Palito Natural de Traqueia",
+      "descricao": "Traqueia bovina desidratada em palitos. Fonte natural de condroitina para articulações saudáveis.",
+      "imagem": "https://via.placeholder.com/300x300?text=Palito+Traqueia",
+      "link": "https://shopee.com.br/seu-link-afiliado-18"
+    },
+    {
+      "id": 19,
+      "nome": "Tapete de Lamber com Ventosa",
+      "descricao": "Tapete de silicone com ventosas que gruda na parede. Ideal para distrair o pet durante o banho.",
+      "imagem": "https://via.placeholder.com/300x300?text=Tapete+Lamber",
+      "link": "https://shopee.com.br/seu-link-afiliado-19"
+    },
+    {
+      "id": 20,
+      "nome": "Limpa Patinhas Portátil",
+      "descricao": "Copo limpador de patas com cerdas de silicone. Prático para usar depois dos passeios.",
+      "imagem": "https://via.placeholder.com/300x300?text=Limpa+Patinhas",
+      "link": "https://shopee.com.br/seu-link-afiliado-20"
+    },
+    {
+      "id": 21,
+      "nome": "Petisco Liofilizado de Fígado",
+      "descricao": "Fígado bovino liofilizado em cubinhos. Mantém nutrientes e sabor sem conservantes artificiais.",
+      "imagem": "https://via.placeholder.com/300x300?text=Petisco+Figado",
+      "link": "https://shopee.com.br/seu-link-afiliado-21"
+    },
+    {
+      "id": 22,
+      "nome": "Comedouro Lento Anti-Voracidade",
+      "descricao": "Comedouro com labirinto interno que desacelera a alimentação. Previne engasgos e melhora a digestão.",
+      "imagem": "https://via.placeholder.com/300x300?text=Comedouro+Lento",
+      "link": "https://shopee.com.br/seu-link-afiliado-22"
     }
   ]
 }

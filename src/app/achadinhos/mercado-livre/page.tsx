@@ -1,7 +1,8 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import BackButton from "@/components/BackButton";
-import ProductGrid from "@/components/ProductGrid";
+import CategoryCarousel from "@/components/CategoryCarousel";
+import { productCategories } from "@/data/categories";
 import produtos from "../../../../data/produtos.json";
 
 export default function MercadoLivre() {
@@ -12,7 +13,10 @@ export default function MercadoLivre() {
         <h2 className="text-2xl font-bold text-center mb-6">
           🟡 Mercado Livre
         </h2>
-        <ProductGrid products={produtos["mercado-livre"]} />
+        <CategoryCarousel
+          products={produtos["mercado-livre"]}
+          categories={productCategories}
+        />
         <div className="text-center">
           <BackButton href="/achadinhos" />
         </div>

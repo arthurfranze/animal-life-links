@@ -58,3 +58,7 @@
   transform: translateY(-4px);
   box-shadow: 0 0 24px rgba(200, 146, 42, 0.2);
 }
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
