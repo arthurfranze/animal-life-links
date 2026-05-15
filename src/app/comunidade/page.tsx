@@ -43,7 +43,7 @@ export default function Comunidade() {
         </section>
 
         <a
-          href="https://wa.me/5544999030219"
+          href="https://chat.whatsapp.com/Jm2wSeDtZ2W2w1lXvPvzq2"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-gold text-xl"
